@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RecyclerViewDecorationDivider</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="item_removed">Item Removido</string>
+    <string name="undo">Desfazer</string>
+	
+	
+	<string name="android_alpha">
+		Primeira versão comercial do sistema operacional, lançada em 23 de setembro de 2008. Já possuía aplicativos do Google e vários outros recursos básicos, mas que na época eram inovadores, como um Media Player, navegador e suporte a Wi-Fi e Bluetooth.
+		Ele já tinha acesso ao Android Market, que mais tarde seria renomeado para Google Play, para download de aplicativos.</string>
+	<string name="android_beta">
+		Primeira atualização do sistema, lançada em 9 de fevereiro de 2009, corrigiu falhas e bugs da versão 1.0 e não trouxe grandes inovações. Entre as novidades, estão o detalhamento e exibição de reviews de locais quando o usuário faria uma busca no Maps e melhorias na interface para realizar chamadas.</string>
+	<string name="android_cupcake">
+		Foi a primeira versão do sistema operacional a receber um apelido carinhoso de sobremesa, que virou padrão daí em diante. Lançada em 27 de abril de 2009, ela teve a inclusão dos Widgets, que até hoje são marca registrada do sistema e gravação e reprodução de vídeos em formato MPEG-4 e 3GP.
+		Também incluiu transições de telas animadas e melhorias no teclado, que passou a funcionar com o celular na vertical e horizontal, suportar palavras customizadas pelo usuário e permitir instalação de teclados desenvolvidos por terceiros.</string>
+	<string name="android_donut">
+		A versão foi lançada em 15 de setembro de 2009 e trouxe suporte à resolução 800x480 e a inclusão de uma caixa de buscas já na tela inicial, para facilitar pesquisas internas e na web. Também teve melhorias em acessibilidade e a inclusão de um sistema de síntese de voz.
+		Também trouxe mais facilidade de uso para o Google Play, possibilitando a inclusão de screenshots de aplicativos.</string>
+	<string name="android_eclair">
+		A “bomba de chocolate” foi lançada em 26 de outubro de 2009 e marcou a primeira atualização radical do sistema operacional móvel do Google. Trouxe uma nova interface, velocidade de hardware otimizada e suporte ao HTML5 no navegador.
+		O sistema ainda apresentou a possibilidade de inclusão de várias contas no aparelho, para sincronização de contatos de várias fontes diferentes, além de trazer suporte ao protocolo de e-mail Microsoft Exchange. As atualizações posteriores apenas trouxeram correções de bugs.</string>
+	<string name="android_froyo">
+		Lançada em 10 de maio de 2010. A versão foi marcada por várias novidades que rodavam “sob o capô” do sistema e praticamente eram invisíveis ao usuário comum, com otimização de velocidade, memória e desempenho. Trouxe a possibilidade de transformar o celular em um hotspot de Wi-Fi e instalação de aplicativos em cartões de memória removíveis.
+		As atualizações posteriores trouxeram apenas correções de falhas de segurança e bugs menores.</string>
+	<string name="android_gingerbread">
+		Foi a versão mais popular do Android até pouco tempo, e também mais duradoura, presente até hoje em dispositivos mais baratos. Foi lançada em 6 de dezembro de 2010 e trouxe interface renovada e simplificada e suporte a resolução HD e tecnologia NFC.
+		Também passou a ter suporte nativo a sensores como barômetro e giroscópio e a aceitar múltiplas câmeras em um mesmo dispositivo. Assim, as câmeras frontais passam a se popularizar.</string>
+	<string name="android_honeycomb">
+		Foi o único sistema operacional desenvolvido para tablets, lançado em 22 de fevereiro de 2011. Sua nova interface “holográfica” foi otimizada para este tipo de dispositivo. Ele trouxe melhorias de câmera e simplificação de multitarefas e suporte a processadores com múltiplos núcleos. A navegação na internet também foi melhorada, com a novidade do modo incógnito. O sistema também passou a permitir a encriptação de todos os dados do usuário.
+		A maioria das Smart TVs com o sistema Google TV utilizava uma versão modificada do Honeycomb 3.2.</string>
+	<string name="android_ice_cream_sandwich">
+		Lançado em 19 de outubro de 2011, a versão trouxe para os smartphones os botões virtuais disponíveis nos tablets com Honeycomb, abolindo a necessidade de teclas físicas nos dispositivos. Apresentou o Android Beam, que permitia o envio rápido de arquivos por aproximação de aparelhos, por meio de NFC.
+		Também incluiu a possibilidade de acessar aplicativos diretamente da tela de bloqueio e desbloqueio por meio de reconhecimento facial. O Chrome passou a aceitar navegação em abas (até 16 abas simultâneas), e o sistema trouxe editor de fotos nativo.</string>
+	<string name="android_jelly_bean">
+		O Android Jelly Bean chegou em julho de 2012 com a promessa de melhorar as funcionalidades e a performance da interface do usuário. Além disso, a atualização introduziu o “Project Butter”, visando aumentar o desempenho e reduzir a latência nos comandos de toque.
+		Além disso, o Jelly Bean passou a utilizar um temporizador de sincronia vertical (vsync) prolongado para que o processador possa detectar tudo o que acontece na tela. A varredura acontece em 16 milissegundos e garante que a renderização dos quadros não seja antecipada ou atrasada.</string>
+	<string name="android_kitkat">
+		O Android KitKat 4.4 chegou em 31 de outubro de 2013. A nova versão do Android foi conhecida pelo codinome Key Lime Pie (KLP) – torta de limão –, mas o nome foi alterado porque “poucas pessoas conheciam o sabor de uma torta de limão”, segundo a próprio Google.
+		Uma das principais novidades do sistema é que ele foi desenhado para ser mais leve, graças ao projeto “Svelte” lançado pela empresa. Sendo assim, o Android KitKat foi capaz de suportar uma maior quantidade de dispositivos porque exigia apenas 512 MB de memória RAM para ser executado.</string>
+	<string name="android_lollipop">
+		O Android Lollipop foi revelado ao público no dia 25 de julho de 2014 durante a conferência Google I/O. Ele foi conhecido inicialmente como Android L em sua fase final de desenvolvimento, até a empresa divulgar finalmente o nome oficial.
+		O Lollipop trouxe mudanças radicais na interface do sistema operacional, incluindo uma nova linguagem de design batizada de “Material Design”. Ela passou a nortear não apenas o Android, mas todos os produtos da empresa, incluindo os serviços web. Um exemplo é o Inbox, novo serviço de email que já nasceu com a nova filosofia gráfica.</string>
+	<string name="android_marshmallow">
+		Em 5 de outubro de 2015, chegou o Marshmallow, que representou outro próximo passo para a criação do Assistente como o conhecemos. O Now, aqui, foi aprimorado, permitindo simplesmente tocar e segurar o botão "home" para acioná-lo — eliminando a necessidade de se abrir manualmente o aplicativo para tal.
+		Chegaram aqui novos recursos de economia de bateria; entre eles, um que colocava automaticamente o dispositivo em estado de repouso quando em inatividade, e o App Standby, que limitava o impacto de apps usados com menos frequência na vida da bateria.</string>
+	<string name="android_nougat">
+		Esta versão, que ainda é bastante popular, chegou em 22 de agosto de 2016. O Nougat melhorou a maneira de se usar o smartphone, adicionando várias janelas para permitir a execução de apps lado a lado, além de respostas instantâneas por meio das notificações, tamanho de exibição ajustável para melhor acessibilidade e melhor economia de dados, limitando a quantidade de dados usados por apps em segundo plano.
+		O Modo VR chegou aqui também, possibilitando experiências de realidade virtual para apps, e chegaram ainda 63 novos emojis — todos com seis opções de tons de pele.</string>
+	<string name="android_oreo">
+		Em 21 de agosto de 2017, a Google revelou o aguardadíssimo Oreo ao mundo, que introduziu formas ainda mais simples de navegar em tarefas no smartphone (como o preenchimento automático para o acesso rápido de apps e o modo picture-in-picture). Com o Oreo, a experiência Android foi simplificada ainda mais graças a uma melhor coesão visual e gestos mais fáceis (como o deslizar da tela inicial para ver todos os aplicativos).
+		E foi no Oreo em que a Google introduziu a versão Go do Android, otimizada especificamente para dispositivos de entrada que têm especificações mais simples. Dessa maneira, usuários "novatos" podem ter uma experiência Android rápida e poderosa, mesmo sem gastar muito dinheiro em um aparelho.</string>
+	<string name="android_pie">
+		O Android Pie chegou em 6 de agosto de 2018. Com esta versão, o sistema trouxe uma variedade de recursos voltados para ajudar você a combater o vício no seu smartphone, incluindo um novo painel que ajuda a monitorar o uso do smartphone e várias maneiras de desativar as notificações quando estiver ocupado ou tentando dormir.
+		Ele também tem recursos que aprendem com seu comportamento, como oferecer a desativação de notificações que você descarta com frequência, e dar aos aplicativos que você usa com mais frequência a prioridade do uso de bateria.</string>
+</resources>
